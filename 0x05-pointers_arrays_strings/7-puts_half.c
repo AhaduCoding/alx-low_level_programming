@@ -1,10 +1,10 @@
 #include "main.h"
-
 /**
  * puts2 - outputs every other character in a string
  * @str: string to print
  * Return: void
-  */
+ */
+
 void puts2(char *str)
 {
 int i;
@@ -14,4 +14,3 @@ if ((i + 1) % 2)
 _putchar(str[i]);
 _putchar('\n');
 }
-
