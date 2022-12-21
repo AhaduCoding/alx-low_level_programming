@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * _strncpy - copies a string to another string
  * @dest: the buffer
@@ -9,7 +9,7 @@
 char *_strncpy(char *dest, char *src, int n)
 {
 int len1; /* string length for src */
-int len2; /* string length for dest */
+int len2; /* string leingth for dest */
 int i;
 
 len1 = 0;
