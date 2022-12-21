@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * leet - replaces a bunch of numbers with letters
  * @z: the string to look at
